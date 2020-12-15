@@ -1,0 +1,12 @@
+{
+  "name": "Beleuchtung",
+  "displayName": "Beleuchtung",
+  "expo": {
+    "name": "Beleuchtung",
+    "slug": "Beleuchtung",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
